@@ -8,27 +8,27 @@ A **Data Analyst portfolio project** demonstrating the complete analytics workfl
 A showcase of my Ola analytics dashboards and reports.
 
 <p align="center">
-  <img src="screenshot/ola.overall.png" width="500">
+  <img src="Screenshot/ola.overall.png" width="500">
 </p>
 <p align="center"><b>Overall Dashboard</b></p>
 
 <p align="center">
-  <img src="screenshot/ola.vehicleType.png" width="500">
+  <img src="Screenshot/ola.vehicleType.png" width="500">
 </p>
 <p align="center"><b>Vehicle Type Analysis</b></p>
 
 <p align="center">
-  <img src="screenshot/ola.revenue.png" width="400">
+  <img src="Screenshot/ola.revenue.png" width="400">
 </p>
 <p align="center"><b>Revenue Analysis</b></p>
 
 <p align="center">
-  <img src="screenshot/ola.cancellation.png" width="300">
+  <img src="Screenshot/ola.cancellation.png" width="300">
 </p>
 <p align="center"><b>Cancellation Analysis</b></p>
 
 <p align="center">
-  <img src="screenshot/ola.rating.png" width="200">
+  <img src="Screenshot/ola.rating.png" width="200">
 </p>
 <p align="center"><b>Rating Analysis</b></p>
 
