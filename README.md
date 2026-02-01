@@ -3,6 +3,18 @@
 A **Data Analyst portfolio project** demonstrating the complete analytics workflow using **SQL, Excel, and Power BI**. This project analyzes ride booking data from an Ola-like ride-sharing service to extract insights, identify trends, and support data-driven decision-making.
 
 
+# Ola Power BI Project
+
+A showcase of Ola analytics dashboards.
+
+| Overall | Vehicle Type | Revenue |
+|---------|--------------|---------|
+| ![Overall](Screenshot/ola.overall.png) | ![Vehicle Type](Screenshot/ola.vehicleType.png) | ![Revenue](Screenshot/ola.revenue.png) |
+
+| Cancellation | Rating |
+|-------------|--------|
+| ![Cancellation](Screenshot/ola.cancellation.png) | ![Rating](Screenshot/ola.rating.png) |
+
 ## 📊 Ola Power BI Project
 
 A showcase of my Ola analytics dashboards and reports.
