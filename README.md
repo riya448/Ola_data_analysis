@@ -13,22 +13,22 @@ A showcase of my Ola analytics dashboards and reports.
 <p align="center"><b>Overall Dashboard</b></p>
 
 <p align="center">
-  <img src="Screenshot/ola.vehicleType.png" width="500">
+  <img src="Screenshot/ola.vehicleType.png" width="800">
 </p>
 <p align="center"><b>Vehicle Type Analysis</b></p>
 
 <p align="center">
-  <img src="Screenshot/ola.revenue.png" width="400">
+  <img src="Screenshot/ola.revenue.png" width="800">
 </p>
 <p align="center"><b>Revenue Analysis</b></p>
 
 <p align="center">
-  <img src="Screenshot/ola.cancellation.png" width="300">
+  <img src="Screenshot/ola.cancellation.png" width="800">
 </p>
 <p align="center"><b>Cancellation Analysis</b></p>
 
 <p align="center">
-  <img src="Screenshot/ola.rating.png" width="200">
+  <img src="Screenshot/ola.rating.png" width="800">
 </p>
 <p align="center"><b>Rating Analysis</b></p>
 
