@@ -8,7 +8,7 @@ A **Data Analyst portfolio project** demonstrating the complete analytics workfl
 A showcase of my Ola analytics dashboards and reports.
 
 <p align="center">
-  <img src="Screenshot/ola.overall.png" width="500">
+  <img src="Screenshot/ola.overall.png" width="800">
 </p>
 <p align="center"><b>Overall Dashboard</b></p>
 
