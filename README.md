@@ -2,7 +2,7 @@
 
 A **Data Analyst portfolio project** demonstrating the complete analytics workflow using **SQL, Excel, and Power BI**. This project analyzes ride booking data from an Ola-like ride-sharing service to extract insights, identify trends, and support data-driven decision-making.
 
----
+
 
 ## 📌 Business Objective  
 
@@ -14,7 +14,7 @@ To analyze ride data and uncover insights related to:
 - Driver efficiency  
 - Vehicle demand patterns  
 
----
+
 
 ## 🔄 Analytics Workflow  
 
@@ -34,15 +34,12 @@ To analyze ride data and uncover insights related to:
 - Visualized KPIs and performance metrics  
 - Presented insights for stakeholders  
 
----
+
 
 ## 🛠 Tools & Skills  
 
 **SQL • Excel • Power BI • Data Cleaning • Data Analysis • Data Visualization • Business Intelligence**
 
----
-
----
 
 ## 📊 Key Insights Delivered  
 
@@ -52,7 +49,6 @@ To analyze ride data and uncover insights related to:
 - High-demand locations influence ride distribution  
 - Driver performance varies across regions  
 
----
 
 ## 🎯 Skills Demonstrated  
 
@@ -62,4 +58,4 @@ To analyze ride data and uncover insights related to:
 - Dashboard Design  
 - Insight Communication  
 
-
+---
