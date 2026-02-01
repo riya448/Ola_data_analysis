@@ -40,6 +40,10 @@ To analyze ride data and uncover insights related to:
 
 **SQL • Excel • Power BI • Data Cleaning • Data Analysis • Data Visualization • Business Intelligence**
 
+## 📊 Dashboard Preview  
+
+![Ola Dashboard](dashboard.png)
+
 
 ## 📊 Key Insights Delivered  
 
