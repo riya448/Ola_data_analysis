@@ -9,6 +9,10 @@ A **Data Analyst portfolio project** demonstrating the complete analytics workfl
 ![Dashboard Overview](Screenshot/ola.cancellation.png)
 ![Dashboard Overview](Screenshot/ola.rating.png)
 
+<p align="center">
+  <img src="ola.overall.png" width="400">
+</p>
+
 ## 📌 Business Objective  
 
 To analyze ride data and uncover insights related to:
